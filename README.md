@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @awalker. Call me Adam.
 - 👀 I’m interested in Web, Mobile, and Desktop UIs, ML, & RetroGamming.
-- 🌱 I’m currently learning Go and Flutter/Dart.
+- 🌱 I’m currently learning Go and Rust.
 
 <!---
 awalker/awalker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
