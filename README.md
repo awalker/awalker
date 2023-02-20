@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @awalker. Call me Adam. Pronouns are he/him.
-- 🏢 I'm a consultant doing web/mobile preimarily using node/typescript with React and SvelteKit.
+- 🏢 I'm a consultant doing web/mobile primarily using node/typescript with React and SvelteKit.
 - 👀 I’m interested in Web, Mobile, and Desktop UIs, ML, & RetroGamming.
 - 🌱 I’m currently experimenting with Go and Rust.
 
